@@ -5,7 +5,7 @@ This is a minimal starter template for [Rift](https://riftjs.dev) – a fast, fl
 ## 🚀 Getting Started
 
 ```bash
-npm create create-rift@latest
+npm create rift@latest
 ````
 
 or clone manually:
